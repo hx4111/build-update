@@ -3,7 +3,7 @@ const util = require(`${rootDir}/packages/builder-util/out/util`)
 const hashFile = util.hashFile
 import path from 'path'
 
-const filepath = path.join('C:\\Users\\haoxu\\Desktop\\玩客币钱包打包工具\\玩客币钱包打包工具\\OSCWallet\\OTCWalletSetup.exe')
+const filepath = path.join('')
 getUpdateInfo()
 
 function getUpdateInfo() {
